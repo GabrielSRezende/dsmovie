@@ -6,9 +6,9 @@ header {
 }
 
 .dsmovie-nav-content {
-    display: flex;
+    display: flex; /*Deixa um do lado do outro*/
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-between; /*Joga elementos para lados diferentes*/
     color: #fff;
 }
 
